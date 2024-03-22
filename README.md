@@ -1,1 +1,1 @@
-RECURSET Champions Understanding Recursion, Solving Every Task
+REcurset champions understanding recursion, solving every task
